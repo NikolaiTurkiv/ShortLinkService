@@ -1,6 +1,6 @@
 package org.example.services;
 
-import org.example.ShortLink;
+import org.example.domain.ShortLink;
 import org.example.exceptions.*;
 import org.example.managers.FileLinkManager;
 import org.example.managers.LinksManager;

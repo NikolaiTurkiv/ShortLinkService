@@ -1,6 +1,6 @@
 package org.example.managers;
 
-import org.example.ShortLink;
+import org.example.domain.ShortLink;
 
 import java.io.*;
 import java.util.HashMap;

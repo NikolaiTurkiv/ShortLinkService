@@ -1,6 +1,7 @@
 package org.example;
 
 
+import org.example.domain.ShortLink;
 import org.example.exceptions.*;
 import org.example.services.ServiceShorterLinks;
 
